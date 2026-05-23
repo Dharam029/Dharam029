@@ -11,10 +11,11 @@
 
 **About**
 
-Final-year Computer Science student who builds full-stack software
-with a focus on business problems — market intelligence, operations,
-and data governance. Interested in the intersection of technology
-and strategy at postgraduate level.
+I am a final-year Computer Science student who builds business-facing software.  
+My projects sit at the intersection of **technology and strategy** — market intelligence tools,  
+operations systems, and data governance platforms.
+
+Currently learning **普通话 (Mandarin Chinese)** — slowly but seriously.
 
 ---
 
@@ -29,9 +30,10 @@ and strategy at postgraduate level.
 ---
 
 **Currently**
-studying   →  B.Tech CSE · CIT Kokrajhar (2027)
-next       →  Postgraduate · Business & Management (2028)
-learning   →  Mandarin Chinese
+
+studying   : B.Tech CSE — CIT Kokrajhar (2027)
+learning   : Mandarin Chinese · Business strategy
+building   : Toward a management career in Asia-Pacific
 
 ---
 
