@@ -23,9 +23,9 @@ Currently learning **普通话 (Mandarin Chinese)** — slowly but seriously.
 
 | Project | Focus | Stack |
 |---|---|---|
-| [CompetitorIQ](https://github.com/ssudem) | Market intelligence & SWOT analysis | Node.js · Express · SQLite · Chart.js |
-| [SkyBook](https://github.com/Dharam029/Flight-Management-System) | Flight operations & booking system | React · Node.js · Express · SQLite |
-| [MediRecord](https://github.com/ssudem/Decentralized-medical-record-system) | Decentralised healthcare governance | Ethereum · IPFS · Node.js · MySQL |
+| [CompetitorIQ]([https://github.com/ssudem](https://github.com/Dharam029/Competitor-Analysis-Market-Entry-Report-System)) | Market intelligence & SWOT analysis | Node.js · Express · SQLite · Chart.js |
+| [SkyBook]([https://github.com/Dharam029/Flight-Management-System](https://github.com/Dharam029/Decentralized-MedicalRecord-System)) | Flight operations & booking system | React · Node.js · Express · SQLite |
+| [MediRecord]([https://github.com/ssudem/Decentralized-medical-record-system](https://github.com/Dharam029/Decentralized-MedicalRecord-System)) | Decentralised healthcare governance | Ethereum · IPFS · Node.js · MySQL |
 
 ---
 
