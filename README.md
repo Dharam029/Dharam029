@@ -41,9 +41,9 @@ building   : Toward a management career in Asia-Pacific
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/ssudem)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Dharam029)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=0A66C2)](www.linkedin.com/in/dharam-dev-basumatary-b3436228b)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:chanjuan1133@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer" />
 
