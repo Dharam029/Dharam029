@@ -31,9 +31,11 @@ Currently learning **普通话 (Mandarin Chinese)** — slowly but seriously.
 
 **Currently**
 
+```yaml
 studying   : B.Tech CSE — CIT Kokrajhar (2027)
 learning   : Mandarin Chinese · Business strategy
 building   : Toward a management career in Asia-Pacific
+```
 
 ---
 
