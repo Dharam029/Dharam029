@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header" />
 
-### Hi, I'm Ling
+### Hi, I'm Dharam
 `CS Student` &nbsp;·&nbsp; `Builder` &nbsp;·&nbsp; `Kokrajhar, Assam`
 
 </div>
