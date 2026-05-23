@@ -2,12 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header" />
 
-### 你好，I'm Ling
-`CSE Student` &nbsp;·&nbsp; `Builder` &nbsp;·&nbsp; `Kokrajhar → China 🇨🇳`
-
-<br/>
-
-> *慢慢来 — Building toward Asia-Pacific, one project at a time.*
+### Hi, I'm Ling
+`CS Student` &nbsp;·&nbsp; `Builder` &nbsp;·&nbsp; `Kokrajhar, Assam`
 
 </div>
 
@@ -15,28 +11,27 @@
 
 **About**
 
-Final-year B.Tech student turning code into business tools —  
-market intelligence, operations systems, and data governance.  
-Pivoting toward **Business & Management** at postgraduate level.  
-Learning **普通话** · Long-term goal: live and work in China.
+Final-year Computer Science student who builds full-stack software
+with a focus on business problems — market intelligence, operations,
+and data governance. Interested in the intersection of technology
+and strategy at postgraduate level.
 
 ---
 
 **Projects**
 
-| Project | Stack | Focus |
+| Project | Focus | Stack |
 |---|---|---|
-| [CompetitorIQ](https://github.com/ssudem) | Node · Express · SQLite | Market strategy & SWOT |
-| [SkyBook](https://github.com/Dharam029/Flight-Management-System) | React · Node · SQLite | Flight ops · INR/USD/CNY |
-| [MediRecord](https://github.com/ssudem/Decentralized-medical-record-system) | Ethereum · IPFS · MySQL | Healthcare governance |
+| [CompetitorIQ](https://github.com/ssudem) | Market intelligence & SWOT analysis | Node.js · Express · SQLite · Chart.js |
+| [SkyBook](https://github.com/Dharam029/Flight-Management-System) | Flight operations & booking system | React · Node.js · Express · SQLite |
+| [MediRecord](https://github.com/ssudem/Decentralized-medical-record-system) | Decentralised healthcare governance | Ethereum · IPFS · Node.js · MySQL |
 
 ---
 
-**Now**
-studying  →  B.Tech CSE, CIT Kokrajhar (2027)
-next      →  MSc Business / Management — China (2028)
-language  →  English · Boro · Hindi · 普通话 (learning)
-open to   →  Business research · Analyst internships
+**Currently**
+studying   →  B.Tech CSE · CIT Kokrajhar (2027)
+next       →  Postgraduate · Business & Management (2028)
+learning   →  Mandarin Chinese
 
 ---
 
