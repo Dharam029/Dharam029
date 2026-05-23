@@ -31,6 +31,12 @@ Currently learning **普通话 (Mandarin Chinese)** — slowly but seriously.
 
 ### Stack
 
+Languages    →   JavaScript · Python · SQL
+Frontend     →   React · HTML · CSS
+Backend      →   Node.js · Express
+Database     →   MySQL · SQLite
+Other        →   Git · Ethereum · IPFS · JWT
+
 ---
 
 ### Now
