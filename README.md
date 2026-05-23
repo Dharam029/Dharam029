@@ -30,3 +30,30 @@ Currently learning **普通话 (Mandarin Chinese)** — slowly but seriously.
 ---
 
 ### Stack
+
+---
+
+### Now
+
+```yaml
+studying   : B.Tech CSE — CIT Kokrajhar (2027)
+learning   : Mandarin Chinese · Business strategy
+building   : Toward a management career in Asia-Pacific
+open to    : Research internships · Business analyst roles
+```
+
+---
+
+<div align="center">
+
+[GitHub](https://github.com/ssudem) &nbsp;·&nbsp;
+[LinkedIn](https://linkedin.com/in/yourprofile) &nbsp;·&nbsp;
+[Email](mailto:youremail@example.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5E3C&height=80&section=footer" />
+
+</div>
+
+
+
+
